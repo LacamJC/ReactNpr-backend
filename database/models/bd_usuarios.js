@@ -38,7 +38,7 @@ const bd_usuarios = database.define('bd_usuarios', {
 
 })
 
- bd_usuarios.sync({force:true})
+//  bd_usuarios.sync({force:true})
 
 
  
